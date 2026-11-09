@@ -1,5 +1,9 @@
 # Golang template for CI/CD in alwaysdata.com
 
+> **Repo ini sudah tidak dipakai dan diarsipkan.** Gunakan **[GoCroot Core](https://github.com/gocroot/core)**: satu template Go (`net/http`) untuk Google Cloud Run functions, VPS, web hosting, dan Docker. Dokumentasi: **https://gocroot.if.co.id/**
+>
+> **This repository is archived and no longer maintained.** Use **[GoCroot Core](https://github.com/gocroot/core)** instead: one Go template (`net/http`) for Google Cloud Run functions, VPS, web hosting, and Docker. Documentation: **https://gocroot.if.co.id/**
+
 This is a simple Golang template using Go Fibre as the base framework, and mongodb.com as database host. It is compatible with alwaysdata.com CI/CD deployment.
 Inside the folder .github/workflows, you might choose your cloud provider and remove the .template extension :
 1. fly.io: fly.yml
